@@ -8,7 +8,7 @@
 }
 .item{
  display: flex;
- gap:30px;
+ gap:10px;
  align-items: center;
  background-color: rgb(249, 249, 249);
  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2), 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -16,8 +16,8 @@
 .status{
     width: 15px;
     height: 15px;
-    border-radius: 50%;
-    margin-right: 10px; 
+    border-radius: 50%; 
+    margin-left: 10px;
 }
 .false{
     background-color: crimson;
